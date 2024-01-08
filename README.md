@@ -1,4 +1,4 @@
-# ConsultationTR
+# Consultation sur les Trottinettes Électriques à Paris
 Rapport réalisé par Carl DAOU
    
 Le dimanche 2 avril 2023, la ville de Paris a organisé  une consultation citoyenne cruciale sur le futur de l'utilisation des trottinettes en libre-service.
